@@ -1,6 +1,6 @@
-## Lista Ligada
+## Lista Duplamente Ligada
 
-Se trata de um conjunto de elementos do mesmo tipo encadeados de modo que um elemento se liga a outro, possibilitando a formação de uma cadeia.
+Se trata de um conjunto de elementos do mesmo tipo encadeados de modo que um elemento se liga a outro, possibilitando a formação de uma cadeia. Você pode percorrer nos dois sentidos, pois cada nó entende quem é o próximo e o anterior.
 
 LinkedList implementa Deque, então tem métodos como **addFirst**, **addLast**, **getFirst**, **getLast**, **push**, **pop**, **poll**, **peek** — facilita usar a mesma estrutura como fila ou pilha.
 
